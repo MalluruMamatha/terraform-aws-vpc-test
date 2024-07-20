@@ -14,3 +14,6 @@ output "public_subnet_list" {
 output "igw_id" {
   value = module.vpc_test.igw_id
 }
+
+
+
